@@ -6,7 +6,7 @@
 - Product Screen
 - Cart Screen
 
-<img src="./preview/fruit-app.jpg" alt="app" />
+<img src="./preview/fruit-app.png" alt="app" />
 <img src="./preview/homescreen.jpg" style="width:350px;" alt=" Home" />
 
 
